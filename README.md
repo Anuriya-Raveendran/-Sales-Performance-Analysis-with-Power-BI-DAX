@@ -2,9 +2,9 @@
 # 📊 Sales Data Analysis with Power BI
 
 **Author:** Anuriya Ravindran  
-**Batch:** DA-DS Reinforcement 6  
+**Batch:** DA-DS Reinforcement 
 **Project:** Power BI Data Visualization  
-**Date:** [Add your project submission date]
+
 
 ---
 
