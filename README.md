@@ -70,7 +70,7 @@ Map Visualization: Geographical distribution of total sales
 
 Dynamic Filters: For date, region, and product
 
-📊 Key Insights
+##📊 Key Insights
 💰 Total Sales: ₹60.28M across all countries
 
 🌍 Top Revenue Countries: United Kingdom, Netherlands, Germany
